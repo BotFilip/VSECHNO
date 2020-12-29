@@ -1,2 +1,3 @@
 # VSECHNO
-https://github.com/BotFilip/VSECHNO/
+Tohle je muj GitHub s programovacími věcmi
+
