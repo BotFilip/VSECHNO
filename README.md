@@ -1,3 +1,3 @@
 # VSECHNO
-Tohle je muj GitHub se školními věcmi
+Tohle je muj GitHub s programovacími věcmi
 
