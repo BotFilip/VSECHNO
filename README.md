@@ -1,2 +1,2 @@
 # VSECHNO
-https://github.com/BotFilip/VSECHNO/
+Tohle je muj Github s Blbostma.
